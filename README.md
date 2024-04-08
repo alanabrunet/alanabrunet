@@ -1,6 +1,6 @@
 ### Olá! Eu sou Alana Brunet 
 
--  Estudo Tecnologia da Informação (TI) na Universidade Federal Rural do Semi-Árido - Ufersa
+-  Cursando Tecnologia da Informação (TI) na Universidade Federal Rural do Semi-Árido - Ufersa
 -  Hoje estudando front-end
 
  
