@@ -1,6 +1,6 @@
 ### Olá! Eu sou Alana Brunet 
 
-Estudante de Bacharelado em Tecnologia da Informação na Ufersa, mergulhando no universo do front-end. Comprometido com a criação de interfaces intuitivas e atraentes para proporcionar experiências digitais memoráveis. Sempre em busca de novos desafios e oportunidades de aprendizado. #FrontEnd #TechStudent
+Estudante de Bacharelado em Tecnologia da Informação na Ufersa, atualmente focado em aprimorar minhas habilidades em front-end.
 
  
 
