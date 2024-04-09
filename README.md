@@ -1,6 +1,6 @@
 ### Olá! Eu sou Alana Brunet 
 
-Estudante de Bacharelado em Tecnologia da Informação na Ufersa, atualmente focado em aprimorar minhas habilidades em front-end.
+Estudante de Bacharelado em Tecnologia da Informação na Ufersa, atualmente focada em aprimorar minhas habilidades em front-end.
 
  
 
