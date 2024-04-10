@@ -1,10 +1,3 @@
-### Olá! Eu sou Alana Brunet 
-
-Estudante de Bacharelado em Tecnologia da Informação na Ufersa, atualmente focada em aprimorar minhas habilidades em front-end.
-
- 
-
- ##
 <div>
   <a href="https://github.com/alanabrunet">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanabrunet&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/_>
